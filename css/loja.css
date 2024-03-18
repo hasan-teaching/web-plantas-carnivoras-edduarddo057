@@ -1,0 +1,12 @@
+table,
+thead,
+tbody,
+tr,
+th,
+td {
+  width: 600px;
+  border: 2px solid silver;
+  text-align: center;
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+}
